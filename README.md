@@ -9,5 +9,5 @@ T=300° C. The effect of mass flow rate will be neglected here, hence it could s
 silencer). Normally a so called “tailpipe” is added after the silencer as well. Now try to optimise the length of this “tailpipe” to maximise the attenuation (the insertion loss IL)
 in the critical range 50-200 Hz. The tailpipe length could vary in the range 0.3-1.5 m.
 
-## For report, please refer to SD2155_Report.pdf
+## For report, please refer to [SD2155_Report.pdf][https://github.com/wyhsjtu/Flow_Acoustics/blob/main/SD2155_Report.pdf]
 
